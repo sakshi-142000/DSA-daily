@@ -1,3 +1,4 @@
+package GraphTraversal;
 import java.util.*;
 
 class MySolution {
